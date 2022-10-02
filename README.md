@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhathaway5
-- 👀 I’m interested in cool libraries, fast simulations, flight dynamics, closed loop control, orbital mechanics, algorithms
-- 🌱 I’m currently learning Julia
+- 👀 I’m interested in cool libraries, fast simulations, flight dynamics, closed loop control, computer vision 
+- 🌱 I’m currently learning Julia, openCV, fastai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
